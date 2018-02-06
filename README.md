@@ -1,2 +1,6 @@
 # labs_5_course
-Roman Dmitriy Shayda and Maksim
+
+Roman Tihonichev
+Dmitriy Snegovoy
+Andew Shaydetskii
+Maksim Khomenko
