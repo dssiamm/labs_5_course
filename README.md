@@ -1,4 +1,4 @@
-# 5 cours FB labs
+# 5 course FB labs
 
 Roman Tikhonichev  
 Dmitriy Snegovoy  
