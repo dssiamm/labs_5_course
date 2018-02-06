@@ -1,6 +1,6 @@
 # 5 cours FB labs
 
-Roman Tihonichev  
+Roman Tikhonichev  
 Dmitriy Snegovoy  
 Andew Shaydetskii  
 Maksim Khomenko  
