@@ -5,6 +5,4 @@ Dmitriy Snegovoy
 Andew Shaydetskii  
 Maksim Khomenko  
 
-alo Natali  
-alo Grisha
-
+nonono  
